@@ -1,8 +1,6 @@
-🚀 CodeCollab – Real-Time Collaborative Code Editor
+#🚀 CodeCollab – Real-Time Collaborative Code Editor#
 
-CodeCollab is a web-based real-time collaborative code editor that allows multiple users to write and edit code together in the same workspace. It provides instant synchronization of code changes using WebSockets (Socket.IO) and offers a rich in-browser coding experience powered by the Monaco Editor (the core editor behind VS Code).
-
-This project demonstrates modern full-stack web development, real-time systems, and scalable client–server communication. It is suitable for final-year academic submission as well as technical interviews.
+CodeCollab is a web-based real-time collaborative code editor that allows multiple users to write and edit code together in the same workspace. It provides instant synchronization of code changes using WebSockets (Socket.IO) and offers a rich in-browser coding experience powered by the Monaco Editor (the editor behind VS Code).
 
 🖼️ Preview
 
@@ -14,18 +12,18 @@ Real-time collaborative code editing
 
 Room-based collaboration using unique room IDs
 
-Live code synchronization using Socket.IO
+Live code synchronization with Socket.IO
 
-VS Code–like editor experience using Monaco Editor
+VS Code–like editor using Monaco Editor
 
-Modern frontend built with Next.js and React
+Modern UI built with Next.js
 
-Node.js + Express backend for real-time communication
+Node.js + Express backend
 
-Optional Docker-based isolated code execution (advanced feature)
+Optional Docker-based isolated code execution
 
 🛠️ Tech Stack
-Frontend
+🔹 Frontend
 
 Next.js
 
@@ -35,7 +33,7 @@ TypeScript
 
 Monaco Editor
 
-Backend
+🔹 Backend
 
 Node.js
 
@@ -43,7 +41,7 @@ Express
 
 Socket.IO
 
-Tools & Others
+🔹 Tools
 
 WebSockets
 
@@ -52,14 +50,11 @@ Docker (optional)
 npm
 
 ⚙️ Installation & Setup
-
-Follow the steps below to clone and run the project on your local machine.
-
 📌 Prerequisites
 
-Make sure you have the following installed:
+Make sure you have:
 
-Node.js (LTS version)
+Node.js (LTS)
 
 npm
 
@@ -72,104 +67,76 @@ npm --version
 git --version
 
 📥 Clone the Repository
-
-Open a terminal and run:
-
 git clone https://github.com/<your-username>/codecollab.git
 cd codecollab
 
 🔧 Backend Setup
-
-Open a terminal in the project root and run:
-
 cd server
 npm install
 npm start
 
 
-The backend server will start on:
+Backend runs on:
 
 http://localhost:3001
 
 🎨 Frontend Setup
 
-Open a new terminal window (keep backend running):
+Open a new terminal window:
 
-cd codecollab
 npm install
 npm run dev
 
 
-The frontend will start on:
+Frontend runs on:
 
 http://localhost:3000
 
-▶️ How to Use the Application
+▶️ How to Use
 
-Open the app in your browser at http://localhost:3000
+Open http://localhost:3000
 
-Enter a room ID and join the room
+Enter a Room ID
 
-Open the same room in another browser or device
+Open the same Room ID in another browser
 
-Start typing code — changes will sync in real time 🎉
-
-🧪 Testing Real-Time Collaboration
-
-Open the application in two different browsers
-
-Join the same room
-
-Type code in one browser
-
-Observe real-time synchronization in the other browser
-
-🐳 Docker Support (Optional)
-
-This project includes optional Docker-based code execution for running user code in isolated containers.
-
-⚠️ Docker is not required for basic real-time collaboration.
-If Docker is not installed, the editor will still function normally.
+Start coding together in real time 🚀
 
 📁 Project Structure
 codecollab/
-│── src/            # Frontend source code
-│── server/         # Backend server (Socket.IO)
-│── public/         # Static assets
-│── README.md       # Project documentation
-│── package.json    # Dependencies and scripts
+│── src/
+│── server/
+│── public/
+│── README.md
+│── package.json
 
 🎯 Learning Outcomes
 
-Understanding real-time web applications
+Real-time web application development
 
-Implementing WebSocket-based communication
+WebSocket-based communication
 
-Handling multiple users and collaborative sessions
+Collaborative system design
 
-Full-stack application development using modern tools
+Full-stack development skills
 
 🚀 Future Enhancements
 
-User authentication
+🔹 User authentication
 
-Language selector (JavaScript, Python, Java)
+🔹 Multi-language support
 
-Code persistence using database
+🔹 Code persistence
 
-Chat feature inside rooms
+🔹 In-room chat
 
-Dark/Light mode
+🔹 Dark/Light mode
 
 👨‍💻 Author
 
 Harsh Jaiswal
 B.Tech Computer Science Engineering
 
-📄 License
-
-This project is created for educational purposes.
-
 ⭐ Support
 
-If you like this project, don’t forget to star the repository ⭐
+If you like this project, please star ⭐ the repository.
