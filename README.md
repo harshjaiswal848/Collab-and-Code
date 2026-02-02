@@ -52,29 +52,29 @@ Make sure you have:
 git clone https://github.com/harshjaiswal848/Collab-and-Code.git
 cd codecollab
 
-##🔧 Backend Setup
+## 🔧 Backend Setup
 cd server
 npm install
 npm start
 
 
-##Backend runs on:
+## Backend runs on:
 
 http://localhost:3001
 
-###🎨 Frontend Setup
+## 🎨 Frontend Setup
 
-##Open a new terminal window:
+### Open a new terminal window:
 
 npm install
 npm run dev
 
 
-##Frontend runs on:
+## Frontend runs on:
 
 http://localhost:3000
 
-##▶️ How to Use
+## ▶️ How to Use
 
 Open http://localhost:3000
 
@@ -84,7 +84,7 @@ Open the same Room ID in another browser
 
 Start coding together in real time 🚀
 
-###📁 Project Structure
+### 📁 Project Structure
 codecollab/
 │── src/
 │── server/
@@ -92,7 +92,7 @@ codecollab/
 │── README.md
 │── package.json
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Real-time web application development
 
@@ -114,12 +114,13 @@ Full-stack development skills
 
 🔹 Dark/Light mode
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Harsh Jaiswal**
 **B.Tech Computer Science Engineering**
 
-##⭐ Support
+## ⭐ Support
 
 If you like this project, please star ⭐ the repository.
+
 
