@@ -49,40 +49,40 @@ Make sure you have:
 - **Git**
 
 ### 📥 Clone the Repository
-git clone https://github.com/harshjaiswal848/Collab-and-Code.git
-cd Collab-and-Code
+- **git clone https://github.com/harshjaiswal848/Collab-and-Code.git**
+- **cd Collab-and-Code**
 
 ## 🔧 Backend Setup
-cd server
-npm install
-npm start
+- **cd server**
+- **npm install**
+- **npm start**
 
 
 ## Backend runs on:
 
-http://localhost:3001
+**http://localhost:3001**
 
 ## 🎨 Frontend Setup
 
 ### Open a new terminal window:
 
-npm install
-npm run dev
+- **npm install**
+- **npm run dev**
 
 
 ## Frontend runs on:
 
-http://localhost:3000
+**http://localhost:3000**
 
 ## ▶️ How to Use
 
-Open http://localhost:3000
+**Open http://localhost:3000**
 
-Enter a Room ID
+- **Enter a Room ID**
 
-Open the same Room ID in another browser
+- **Open the same Room ID in another browser**
 
-Start coding together in real time 🚀
+- **Start coding together in real time 🚀**
 
 ## 📁 Project Structure
 codecollab/
@@ -94,13 +94,13 @@ codecollab/
 
 ## 🎯 Learning Outcomes
 
-Real-time web application development
+- **Real-time web application development**
 
-WebSocket-based communication
+- **WebSocket-based communication**
 
-Collaborative system design
+- **Collaborative system design**
 
-Full-stack development skills
+- **Full-stack development skills**
 
 ## 🚀 Future Enhancements
 
@@ -116,12 +116,13 @@ Full-stack development skills
 
 ## 👨‍💻 Author
 
-**Harsh Jaiswal**
-**B.Tech Computer Science Engineering**
+- **Harsh Jaiswal**
+- **B.Tech Computer Science Engineering**
 
 ## ⭐ Support
 
 If you like this project, please **star ⭐** the repository.
+
 
 
 
