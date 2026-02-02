@@ -84,7 +84,7 @@ Open the same Room ID in another browser
 
 Start coding together in real time 🚀
 
-### 📁 Project Structure
+## 📁 Project Structure
 codecollab/
 │── src/
 │── server/
@@ -102,17 +102,17 @@ Collaborative system design
 
 Full-stack development skills
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-🔹 User authentication
+🔹 **User authentication**
 
-🔹 Multi-language support
+🔹 **Multi-language support**
 
-🔹 Code persistence
+🔹 **Code persistence**
 
-🔹 In-room chat
+🔹 **In-room chat**
 
-🔹 Dark/Light mode
+🔹 **Dark/Light mode**
 
 ## 👨‍💻 Author
 
@@ -121,6 +121,7 @@ Full-stack development skills
 
 ## ⭐ Support
 
-If you like this project, please star ⭐ the repository.
+If you like this project, please **star ⭐** the repository.
+
 
 
