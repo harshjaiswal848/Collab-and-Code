@@ -50,7 +50,7 @@ Make sure you have:
 
 ### 📥 Clone the Repository
 git clone https://github.com/harshjaiswal848/Collab-and-Code.git
-cd codecollab
+cd Collab-and-Code
 
 ## 🔧 Backend Setup
 cd server
@@ -122,6 +122,7 @@ Full-stack development skills
 ## ⭐ Support
 
 If you like this project, please **star ⭐** the repository.
+
 
 
 
