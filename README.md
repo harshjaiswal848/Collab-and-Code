@@ -112,8 +112,8 @@ If you prefer to install manually:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/mapcrafter2048/collaborative-code-editor.git
-   cd collaborative-code-editor
+   git clone https://github.com/harshjaiswal848/Collab-and-Code.git
+   cd Collab-and-Code
    ```
 
 2. **Install frontend dependencies**
@@ -316,3 +316,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 **Built with ❤️ for collaborative coding**
+
